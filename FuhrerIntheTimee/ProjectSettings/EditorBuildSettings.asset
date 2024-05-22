@@ -4,5 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/ww2.unity
+    guid: 73c9185ddb454be41b3e31e945479448
+  - enabled: 1
+    path: Assets/Scenes/AcademiaBellasArtes.unity
+    guid: e9d10e30df5891c4083eb28873b4aca2
+  - enabled: 1
+    path: Assets/Scenes/PlazaAustria.unity
+    guid: 7d4c032c67db2ac4e80dd932d1f11bea
   m_configObjects: {}
